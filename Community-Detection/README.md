@@ -52,23 +52,27 @@ The goal is to identify meaningful clusters (communities) within large-scale soc
 ---
 
 ## 🗂️ Project Structure
+```text
 Community-Detection/
 │
-├── Community_Sachin.py # Main source code
-├── Community-Sachin.pdf # Project report and observations
-├── data/
-│ ├── facebook_combined.txt # Facebook social graph data
-│ └── soc-sign-bitcoinotc.csv # Bitcoin trust network data
-└── README.md 
+├── Community_Sachin.py          # Main source code implementing algorithms
+├── Community-Sachin.pdf         # Project report and observations
+│
+├── data/                        # Input data folder
+│   ├── facebook_combined.txt    # Facebook social graph data
+│   └── soc-sign-bitcoinotc.csv  # Bitcoin trust network data
+│
+└── README.md                    # Project documentation
+
 
 
 ## 👨‍💻 Author
 
 ### **Sachin Tanwar**
 **Data Scientist | Lowe’s India**  
-*M.Tech in Artificial Intelligence (SR No: 26120)*  
+*M.Tech in Artificial Intelligence*  
 📍 **Bangalore, India**  
-📧 **sachintanwar.ai@gmail.com**  
+📧 **er.sachin10894@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/stanwar94/) &nbsp; | &nbsp; [GitHub](https://github.com/sachin10894/)
 
 ---
